@@ -1,0 +1,2 @@
+# partify
+Spotify for Parties.
